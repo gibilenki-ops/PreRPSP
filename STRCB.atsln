@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "STRCB", "STRCB.cproj", "{1D3F1EEB-3348-439A-BC82-7E201E684B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+		test|AVR = test|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3F1EEB-3348-439A-BC82-7E201E684B60}.default|AVR.ActiveCfg = default|AVR
+		{1D3F1EEB-3348-439A-BC82-7E201E684B60}.default|AVR.Build.0 = default|AVR
+		{1D3F1EEB-3348-439A-BC82-7E201E684B60}.test|AVR.ActiveCfg = test|AVR
+		{1D3F1EEB-3348-439A-BC82-7E201E684B60}.test|AVR.Build.0 = test|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
